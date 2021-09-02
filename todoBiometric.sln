@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoBiometric.Common", "todoBiometric.Common\todoBiometric.Common.csproj", "{9AF404D7-5CCB-41A6-8649-5247EAA0C98C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoBiometric.Functions", "todoBiometric.Functions\todoBiometric.Functions.csproj", "{FD688143-1408-4349-91D9-614189652CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoBiometric.Test", "todoBiometric.Test\todoBiometric.Test.csproj", "{46573E8D-0D13-424C-9A26-81D4BDC73EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF404D7-5CCB-41A6-8649-5247EAA0C98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF404D7-5CCB-41A6-8649-5247EAA0C98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF404D7-5CCB-41A6-8649-5247EAA0C98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF404D7-5CCB-41A6-8649-5247EAA0C98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD688143-1408-4349-91D9-614189652CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD688143-1408-4349-91D9-614189652CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD688143-1408-4349-91D9-614189652CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD688143-1408-4349-91D9-614189652CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46573E8D-0D13-424C-9A26-81D4BDC73EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46573E8D-0D13-424C-9A26-81D4BDC73EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46573E8D-0D13-424C-9A26-81D4BDC73EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46573E8D-0D13-424C-9A26-81D4BDC73EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EC05A2C-438B-4AB3-9F68-0D778D2F5086}
+	EndGlobalSection
+EndGlobal
